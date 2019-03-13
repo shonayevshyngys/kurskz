@@ -1,0 +1,641 @@
+{
+  "output" : [ {
+    "name" : "ТОО \"АКА\" ",
+    "date" : "03/13/2019 00:00:00",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "\"TRUMP\" (ТОО \"АКА\")",
+    "date" : "03/13/2019 08:34:39",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "TOO \"Харсан и партнеры\"",
+    "date" : "03/13/2019 08:23:38",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ОП Торгового дома \"Прага\", ТОО \"ОП Карлыгаш\" ",
+    "date" : "03/13/2019 08:34:29",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Албан Exchange\" ОП №4 ",
+    "date" : "03/13/2019 08:00:18",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"X-CHANGE\"",
+    "date" : "03/12/2019 18:22:31",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Албан Exchange\" ОП №1 ",
+    "date" : "03/13/2019 08:00:18",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Таур Exchange\" №5 ",
+    "date" : "03/13/2019 07:32:12",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Таур Exchange\" №2",
+    "date" : "03/13/2019 07:26:34",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"Оника-Теко\"  ",
+    "date" : "03/13/2019 07:56:12",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "\"Limpopo на Ауэзова\"  (ТОО \"Эквивалент Л\") ",
+    "date" : "03/13/2019 08:21:18",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Обменный пункт \"РВ\" №1 ",
+    "date" : "03/13/2019 08:30:41",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"Арсенал-Exchange\" № 1",
+    "date" : "03/13/2019 08:17:12",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"RDK-Exchange\" №2  ",
+    "date" : "03/12/2019 16:38:45",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Албан Exchange\" ОП №5 ",
+    "date" : "03/13/2019 03:00:43",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "\"Limpopo\" (ТОО \"Вклад\") №1 ",
+    "date" : "03/13/2019 08:21:13",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"Риволи\" ",
+    "date" : "03/12/2019 21:31:09",
+    "currency" : "RUB",
+    "buyPrice" : 5.7,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"Altyn Bazar Exchange\"",
+    "date" : "03/12/2019 19:32:01",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "\"Limpopo\"  (ТОО \"Дивад\")  ",
+    "date" : "03/13/2019 08:30:38",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "\"Limpopo-NEO2\" (ТОО \"ВКЛАД\") №2",
+    "date" : "03/13/2019 08:34:27",
+    "currency" : "RUB",
+    "buyPrice" : 5.68,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"Империя Exchange\" ",
+    "date" : "03/12/2019 19:55:24",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "\"Limpopo–NEO\" (ТОО \"ОП Анна\") ",
+    "date" : "03/13/2019 08:20:51",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "\"FORMULA-7\" (ТОО \"Stilo Exchange\")",
+    "date" : "03/12/2019 13:35:14",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"ARS-Exchange\" №1 ",
+    "date" : "03/13/2019 08:32:26",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"АТМ ЛТД\" ",
+    "date" : "03/12/2019 17:48:31",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "АБК -  ТОО \"MTrader\" ",
+    "date" : "03/12/2019 19:04:29",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Gold De Luxe XXI\"  ",
+    "date" : "03/13/2019 08:10:46",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"NS exchange\"",
+    "date" : "03/12/2019 21:07:14",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Хан Эксчейндж\"  ",
+    "date" : "03/12/2019 16:04:21",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "Limpopo (ТОО \"Вклад\")",
+    "date" : "03/13/2019 08:13:46",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Аракс\"         ",
+    "date" : "03/12/2019 13:38:01",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Tumar Exchange\"  ",
+    "date" : "03/13/2019 08:09:39",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "\"LIMPOPO на Абая\" (ТОО \"ОПВ Алым\")",
+    "date" : "03/12/2019 12:23:13",
+    "currency" : "RUB",
+    "buyPrice" : 5.7,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Шайба Exchange\" ",
+    "date" : "03/12/2019 20:11:17",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО   \"Dimak  Exchange\"   № 1     ",
+    "date" : "03/13/2019 01:47:10",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "TOO \"MTrader\" №1",
+    "date" : "03/12/2019 18:58:02",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"MTrader\" №2",
+    "date" : "03/12/2019 18:57:09",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"БДТ Exchange\"",
+    "date" : "03/12/2019 17:52:08",
+    "currency" : "RUB",
+    "buyPrice" : 5.6,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "\"Капуста\" ТОО \"Юнга\"",
+    "date" : "03/12/2019 15:35:25",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"TREND exchange\"",
+    "date" : "03/12/2019 18:38:41",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Белое солнце\"",
+    "date" : "03/12/2019 20:51:01",
+    "currency" : "RUB",
+    "buyPrice" : 5.6,
+    "sellPrice" : 0.0
+  }, {
+    "name" : "\"Алтын Адам\" (ТОО \"Отрар Exchange\")",
+    "date" : "03/12/2019 18:12:42",
+    "currency" : "RUB",
+    "buyPrice" : 5.65,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Таур Exchange\" №1 ",
+    "date" : "03/12/2019 15:44:36",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "GOLDFOREX",
+    "date" : "03/13/2019 07:49:41",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "Limpopo на Ташкентской (ТОО \"ОПВ АЛЫМ\")",
+    "date" : "03/12/2019 20:42:57",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО  \"АТМ ЛТД №1",
+    "date" : "03/13/2019 00:00:00",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Dimak Exchange\" № 2 ",
+    "date" : "03/13/2019 08:22:51",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Мер-Нур\" ",
+    "date" : "03/12/2019 19:26:53",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "Центральный филиал АО \"ДБ \"КЗИ Банк\"  ",
+    "date" : "03/12/2019 09:08:41",
+    "currency" : "RUB",
+    "buyPrice" : 0.0,
+    "sellPrice" : 0.0
+  }, {
+    "name" : "ТОО \"Greens-Exchange\"  ",
+    "date" : "03/12/2019 18:55:16",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Арсенал-Exchange\" № 2",
+    "date" : "03/13/2019 08:20:21",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "\"Limpopo\" (ТОО \"ОП АННА\") ",
+    "date" : "03/13/2019 08:34:00",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "TOO \"Gold De Luxe XXI\"  ",
+    "date" : "03/13/2019 08:33:52",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО  \"Dinar - Exchange\"",
+    "date" : "03/13/2019 08:34:38",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Шемико\"     ",
+    "date" : "03/12/2019 21:51:26",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Real Exchange\"",
+    "date" : "03/13/2019 08:31:10",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "АО \"Нурбанк\"",
+    "date" : "03/12/2019 09:20:42",
+    "currency" : "RUB",
+    "buyPrice" : 5.63,
+    "sellPrice" : 5.81
+  }, {
+    "name" : "ТОО \"Лимон Ексчейндж\" №2",
+    "date" : "03/12/2019 18:49:26",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Лимон Ексчейндж\" № 4",
+    "date" : "03/12/2019 17:19:50",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО СиК",
+    "date" : "03/13/2019 08:18:27",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Global exchange\" ",
+    "date" : "03/13/2019 00:00:00",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "Фенико",
+    "date" : "03/13/2019 08:19:05",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "A-Currency Exchange",
+    "date" : "03/13/2019 08:34:16",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Star Exchange\"",
+    "date" : "03/12/2019 23:28:13",
+    "currency" : "RUB",
+    "buyPrice" : 5.6,
+    "sellPrice" : 0.0
+  }, {
+    "name" : "ТОО \"AB exchange\"",
+    "date" : "03/12/2019 20:17:13",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 0.0
+  }, {
+    "name" : "ТОО \" LEYLA \"",
+    "date" : "03/12/2019 12:20:17",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Mirvan LTD\"  ",
+    "date" : "03/13/2019 07:44:12",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Таур Exchange\" №6 ",
+    "date" : "03/13/2019 06:19:51",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"НУР EXCHANGE\"",
+    "date" : "03/12/2019 18:35:29",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Риволи\" ",
+    "date" : "03/13/2019 08:30:40",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Didal & K\"",
+    "date" : "03/13/2019 02:41:25",
+    "currency" : "RUB",
+    "buyPrice" : 5.6,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Real Exchange\" - 2 ",
+    "date" : "03/13/2019 08:30:45",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО Астана Exchange ",
+    "date" : "03/13/2019 08:00:18",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ОП Чингис (ТОО \"Чингис-Алматы\")",
+    "date" : "03/13/2019 08:34:34",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Som Exchange\"",
+    "date" : "03/12/2019 21:38:06",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Абырой Exchange\"",
+    "date" : "03/12/2019 17:56:08",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"ASPmoney\"",
+    "date" : "03/12/2019 18:30:44",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"ARS-Exchange\" № 2 ",
+    "date" : "03/13/2019 08:29:12",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"ОП Калкаман\"",
+    "date" : "03/13/2019 00:00:00",
+    "currency" : "RUB",
+    "buyPrice" : 5.7,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"SunCity13\" ",
+    "date" : "03/12/2019 20:26:19",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Grand Exchange\" ",
+    "date" : "03/12/2019 18:27:31",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "\"ОБМЕНиК\" (ТОО \"D-Эксчейндж\")                                                                                       ",
+    "date" : "03/13/2019 08:30:22",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"Dimak Exchange\" № 3 ",
+    "date" : "03/13/2019 02:02:15",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "\"У Зеленого Медведя\" ТОО \"Зубор\"",
+    "date" : "03/13/2019 01:49:41",
+    "currency" : "RUB",
+    "buyPrice" : 5.705,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Триллионер\"",
+    "date" : "03/13/2019 08:06:42",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"БЕРЕКЕ EXCHANGE\"",
+    "date" : "03/13/2019 08:27:37",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"RDK-Exchange\" №1",
+    "date" : "03/12/2019 14:06:59",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"Dimak Exchange\" № 4 ",
+    "date" : "03/13/2019 08:19:33",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "TOO \"NurAbdi\" №2  ",
+    "date" : "03/13/2019 07:56:29",
+    "currency" : "RUB",
+    "buyPrice" : 5.7,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Хан Эксчейндж\" -2",
+    "date" : "03/12/2019 18:15:46",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"Мадам\"",
+    "date" : "03/13/2019 08:23:22",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"Таур Exchange\" №4",
+    "date" : "03/13/2019 07:39:44",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО  \"Шемико\" №1",
+    "date" : "03/13/2019 01:36:18",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"ОП ЗАМАН \" №3",
+    "date" : "03/12/2019 17:32:59",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ОП Заман",
+    "date" : "03/12/2019 16:25:06",
+    "currency" : "RUB",
+    "buyPrice" : 5.7,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ОП ALMA ",
+    "date" : "03/12/2019 18:51:37",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "ТОО \"ОП Капитал\" №1",
+    "date" : "03/12/2019 19:16:21",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"ФЕНИКО\"",
+    "date" : "03/13/2019 08:00:58",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.78
+  }, {
+    "name" : "ТОО \"ЗАМАН ОП\"",
+    "date" : "03/12/2019 20:09:32",
+    "currency" : "RUB",
+    "buyPrice" : 5.74,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО Хан Эксчейндж № 3",
+    "date" : "03/12/2019 18:14:32",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ЗАМАН ОП",
+    "date" : "03/12/2019 22:59:38",
+    "currency" : "RUB",
+    "buyPrice" : 5.7,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО ЗАМАН   ",
+    "date" : "03/12/2019 20:34:50",
+    "currency" : "RUB",
+    "buyPrice" : 5.73,
+    "sellPrice" : 5.77
+  }, {
+    "name" : "TRUST EXCHANGE ",
+    "date" : "03/12/2019 21:47:25",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "\"У Зеленого Медведя\" ТОО Фирма \"Блиц\"",
+    "date" : "03/13/2019 01:46:00",
+    "currency" : "RUB",
+    "buyPrice" : 5.705,
+    "sellPrice" : 5.79
+  }, {
+    "name" : "ТОО \"DES exchange\"",
+    "date" : "03/13/2019 00:45:52",
+    "currency" : "RUB",
+    "buyPrice" : 5.75,
+    "sellPrice" : 5.8
+  }, {
+    "name" : "ТОО \"ОП АЛЬФА\"",
+    "date" : "03/12/2019 21:33:00",
+    "currency" : "RUB",
+    "buyPrice" : 5.72,
+    "sellPrice" : 5.77
+  } ],
+  "average" : 4.0,
+  "currency" : "RUB"
+}
